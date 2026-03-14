@@ -1,2 +1,3 @@
-# crowd-counting-literature
-Literature review and structured notes on deep learning methods for crowd counting and density estimation.
+# Crowd Counting Research
+
+A comprehensive research repository for deep learning methods in crowd counting and density estimation, featuring literature that I have read and experiments that I have done.
