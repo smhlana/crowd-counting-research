@@ -60,7 +60,7 @@ python app.py
 ```
 
 **Access the application:**
-- Open browser: `http://localhost:300`
+- Open browser: `http://localhost:3000`
 - Upload an image
 - Get instant classification results!
 
