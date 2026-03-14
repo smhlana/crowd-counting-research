@@ -6,7 +6,7 @@ A web-based image classification application built with Flask and TensorFlow tha
 
 - **Web Interface**: Simple and intuitive web interface for image upload
 - **Image Classification**: Uses VGG16 pre-trained model for accurate image classification
-- **Confidence Color Coding**: Visual feedback based on prediction confidence levels:
+- **Confidence Colour Coding**: Visual feedback based on prediction confidence levels:
   - 🟢 **Green**: High confidence (≥70%)
   - 🟠 **Orange**: Medium confidence (40-70%)
   - 🔴 **Red**: Low confidence (<40%)
