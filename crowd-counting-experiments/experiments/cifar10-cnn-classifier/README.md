@@ -73,7 +73,7 @@ This project was built following concepts from these educational resources:
   - Comprehensive course covering computer vision fundamentals and deep learning implementation
 
 ### **Tutorial Reference**  
-- **[Convolutional Neural Networks from Scratch](https://www.youtube.com/watch?v=0nr6TPKlrN0&t=2s)** - YouTube Tutorial
+- **[Deploy Machine Learning Models using Flask](https://www.youtube.com/watch?v=0nr6TPKlrN0&t=2s)** - YouTube Tutorial
   - Hands on tutorial on how to deploy an ML model with Python using Flask.
 
 ## License
