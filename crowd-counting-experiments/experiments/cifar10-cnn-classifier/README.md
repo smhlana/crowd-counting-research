@@ -60,9 +60,21 @@ python app.py
 ```
 
 **Access the application:**
-- Open browser: `http://localhost:300`
+- Open browser: `http://localhost:3000`
 - Upload an image
 - Get instant classification results!
+
+## References & Learning Resources
+
+This project was built following concepts from these educational resources:
+
+### **Course Reference**
+- **[Computer Vision & Deep Learning with Python](https://www.udemy.com/course/computervision-deeplearning-with-python/)** - Udemy Course
+  - Comprehensive course covering computer vision fundamentals and deep learning implementation
+
+### **Tutorial Reference**  
+- **[Deploy Machine Learning Models using Flask](https://www.youtube.com/watch?v=0nr6TPKlrN0&t=2s)** - YouTube Tutorial
+  - Hands on tutorial on how to deploy an ML model with Python using Flask.
 
 ## License
 

@@ -6,7 +6,7 @@ A web-based image classification application built with Flask and TensorFlow tha
 
 - **Web Interface**: Simple and intuitive web interface for image upload
 - **Image Classification**: Uses VGG16 pre-trained model for accurate image classification
-- **Confidence Color Coding**: Visual feedback based on prediction confidence levels:
+- **Confidence Colour Coding**: Visual feedback based on prediction confidence levels:
   - 🟢 **Green**: High confidence (≥70%)
   - 🟠 **Orange**: Medium confidence (40-70%)
   - 🔴 **Red**: Low confidence (<40%)
@@ -109,3 +109,7 @@ The application categorizes predictions into three confidence levels:
 - TensorFlow 2.x
 - Pillow (PIL)
 - Modern web browser
+
+### **Tutorial Reference**  
+- **[Convolutional Neural Networks from Scratch](https://www.youtube.com/watch?v=0nr6TPKlrN0&t=2s)** - YouTube Tutorial
+  - Hands on tutorial on how to deploy an ML model with Python using Flask.
