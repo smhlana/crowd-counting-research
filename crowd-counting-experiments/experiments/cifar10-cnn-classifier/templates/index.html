@@ -5,9 +5,23 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>CIFAR-10 CNN Classifier</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css" rel="stylesheet">
+        <style>
+            body {
+                display: flex;
+                flex-direction: column;
+                min-height: 100vh;
+            }
+            .content {
+                flex: 1;
+            }
+            .footer {
+                margin-top: auto;
+            }
+        </style>
     </head>
     <body>
-        <div class="p-3 text-center">
+        <div class="content">
+            <div class="p-3 text-center">
             <h1 class="mb-0">CIFAR-10 CNN Classifier</h1>
             <p class="mb-0">Custom PyTorch CNN trained from scratch</p>
             <div>
@@ -37,8 +51,9 @@
                 {{ error }}
             </div>
         {% endif %}
+        </div>
 
-        <div class="card-footer bg-light text-center" style="border-radius: 0 0 15px 15px;">
+        <div class="card-footer bg-light text-center footer" style="border-radius: 0 0 15px 15px;">
             <small class="text-muted">
                 🧠 Powered by PyTorch | 📊 Trained on CIFAR-10 dataset
             </small>

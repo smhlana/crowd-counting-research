@@ -51,6 +51,10 @@ transform = transforms.Compose([
 INDEX_TEMPLATE = 'index.html'
 app = Flask(__name__)
 
+@app.route('/', methods=['GET'])
+def index():
+    return render_template(INDEX_TEMPLATE, prediction=None, confidence_level=None, error=None)
+
 @app.route('/predict', methods=['POST'])
 def predict():
     imagefile = request.files['imagefile']
