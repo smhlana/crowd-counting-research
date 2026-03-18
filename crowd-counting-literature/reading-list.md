@@ -2,6 +2,7 @@
 
 ## Core Papers
 - [ ] Zhao Hengshang et al., 2017 – Pyramid scene parsing network (PSPNet)
+- [ ] Li Hanchao et al., 2018 - Pyramid attention network (PAN) for semantic segmentation
 
 ## Datasets
 - [ ] MNIST – <author>, <year>  #Example
