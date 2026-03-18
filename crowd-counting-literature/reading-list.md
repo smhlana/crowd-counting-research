@@ -1,14 +1,14 @@
 # Crowd Counting Reading List
 
 ## Core Papers
-- [ ] Zhang et al., 2016 – MCNN
+- [ ] Zhao Hengshang et al., 2017 – Pyramid scene parsing network (PSPNet)
 
 ## Datasets
-- [ ] MNIST – <author>, <year>
+- [ ] MNIST – <author>, <year>  #Example
 
 ## Recent Methods
-- [ ] TransCrowd – Liang et al., 2022
-- [ ] Vision Transformer Crowd Counting papers
+- [ ] TransCrowd – Liang et al., 2022             #Example
+- [ ] Vision Transformer Crowd Counting papers    #Example
 
 ## Surveys
-- [ ] Keiron O’Shea & Ryan Nash, 2015 – Intro to CNNs
+- [X] Keiron O’Shea & Ryan Nash, 2015 – Intro to CNNs
